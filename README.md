@@ -40,10 +40,10 @@ Full part list with approx prices - https://docs.google.com/spreadsheets/d/1PMvB
  https://www.thingiverse.com/thing:3018451
 
 ## Code setup
-  ' #define photoCount 32         //default number of photos '
-  ' #define focusDelay 1200       //holding focus button time (ms) '
-  ' #define shootDelay 700        //holding shutter button time (ms) '
-  ' #define releaseDelay 500      //delay after shutter button release (ms) '
+>> #define photoCount 32         // default number of photos 
+>> #define focusDelay 1200       // holding focus button time (ms) 
+>> #define shootDelay 700        // holding shutter button time (ms) 
+>> #define releaseDelay 500      // delay after shutter button release (ms) 
 
   
   

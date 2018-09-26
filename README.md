@@ -4,12 +4,20 @@ This turntable was designed for photogrammetry purposes.
 Full article can be found here: 
 Video demonstration:
 
-## Folders
+## Folders and files
 - **Libraries** - Required libraries for firmware. Install it via Arduino IDE
 - **Images** - Couple of devide photo and schematics
+- **turntable10.ino** - Firmware
 
 ## Schematic
 ![Schematic](https://github.com/VitaliiUspalenko/Turntable_v1.0/blob/master/Images/fig1.jpg)
+
+- **10k potentiometer** - stepper motor speed adjustment;
+- **SW1** - 2-position toggle switch, used for mode select (AUTO or HOLD);
+- **SW2** - momentary push button — START;
+- **SW3** - momentary push button — RESET;
+- **SW4** - momentary push button — HARD RESET;
+- **WS2812 RGB LED** - indicates current status.
 
 ## Materials
 * Arduino Nano V3.0 replica http://bit.ly/2Lep1au
@@ -32,10 +40,10 @@ Full part list with approx prices - https://docs.google.com/spreadsheets/d/1PMvB
  https://www.thingiverse.com/thing:3018451
 
 ## Code setup
-  #define photoCount 32         //default number of photos
-  #define focusDelay 1200       //holding focus button time (ms)
-  #define shootDelay 700        //holding shutter button (ms)
-  #define releaseDelay 500      //delay after shutter button release (ms)
+  '#define photoCount 32         //default number of photos'
+  '#define focusDelay 1200       //holding focus button time (ms)'
+  '#define shootDelay 700        //holding shutter button time (ms)'
+  '#define releaseDelay 500      //delay after shutter button release (ms)'
 
   
   

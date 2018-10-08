@@ -1,7 +1,9 @@
 # Automatic turntable with shutter release
 
 This turntable was designed for photogrammetry purposes. 
-Full article can be found here: 
+
+Full article can be found here: https://www.instructables.com/id/Automatic-Turntable-With-Shutter-Release
+
 Video demonstration: https://youtu.be/FBjfitXY1yQ
 
 ## Folders and files

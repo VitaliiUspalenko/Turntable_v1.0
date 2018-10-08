@@ -2,7 +2,7 @@
 
 This turntable was designed for photogrammetry purposes. 
 Full article can be found here: 
-Video demonstration:
+Video demonstration: https://youtu.be/FBjfitXY1yQ
 
 ## Folders and files
 - **Libraries** - Required libraries for firmware. Install it via Arduino IDE
